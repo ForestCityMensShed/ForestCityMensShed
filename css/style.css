@@ -7,3 +7,13 @@
   color: white;
   
 }
+
+.bg-image-div {
+  background-image: url("images/headerbackground.jpeg"); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 300px; /* Or whatever height you want */
+  position: relative;
+  padding: 20px; /* Optional */
+}
