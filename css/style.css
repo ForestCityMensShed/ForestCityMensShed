@@ -17,3 +17,37 @@
   position: relative;
   padding: 20px; /* Optional */
 }
+
+.mens-shed h2 {
+  color: #2a4d69;
+  border-bottom: 2px solid #2a4d69;
+  padding-bottom: 5px;
+}
+.mens-shed h3 {
+  color: #4b86b4;
+  margin-top: 20px;
+}
+.mens-shed ul {
+  padding-left: 20px;
+}
+.mens-shed li {
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+
+.mens-shed h2 {
+  color: #2a4d69;
+  border-bottom: 2px solid #2a4d69;
+  padding-bottom: 5px;
+}
+.mens-shed h3 {
+  color: #4b86b4;
+  margin-top: 20px;
+}
+.mens-shed ul {
+  padding-left: 20px;
+}
+.mens-shed li {
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
