@@ -50,14 +50,14 @@
 
 
   .header-fixed {
-      height: 120px;
+      height: 200px;
       background-color: #f8f9fa;
       display: flex;
       align-items: center;
       vertical-align: middle;
     }
     .header-logo img {
-      max-height: 100px;
+      max-height: 200px;
       vertical-align:middle;
     }
     .header-title {
